@@ -1,1 +1,1 @@
-# CNN and MLP algortihm to predict melanoma cancer
+# CNN and MLP algorithm to predict melanoma cancer
